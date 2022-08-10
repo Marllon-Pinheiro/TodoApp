@@ -6,7 +6,7 @@
 package util;
 
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;;
+import java.util.ArrayList;
 import java.util.List;
 import javax.swing.table.AbstractTableModel;
 import model.Task;
